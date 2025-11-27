@@ -179,7 +179,8 @@ Kliknij RESETUJ QUIZ w aplikacji.
 
 Lub ponownie wciśnij przycisk Run w środowisku IDE. 
 
- <img width="1600" height="900" alt="Zrzut ekranu 2025-11-27 132035" src="https://github.com/user-attachments/assets/6d8e70fe-3a68-4d15-b35f-d24e60bb8bbf" />
+ 
+<img width="1600" height="900" alt="Zrzut ekranu 2025-11-27 135901" src="https://github.com/user-attachments/assets/6c5f1cd2-5a0c-4024-b2f4-3d463d8f8e98" />
 
 <img width="1600" height="900" alt="Zrzut ekranu 2025-11-27 132049" src="https://github.com/user-attachments/assets/db987b50-81d4-4fa9-b6b3-5486e6994f9f" />
 <img width="1600" height="900" alt="Zrzut ekranu 2025-11-27 132132" src="https://github.com/user-attachments/assets/77d633c6-22d6-4642-b110-1f789b68ae20" />
